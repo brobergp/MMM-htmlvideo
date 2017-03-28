@@ -1,6 +1,6 @@
 # MMM-htmlvideo
 
-This module for the [MagicMirror](https://github.com/MichMich/MagicMirror) plays a video using the html video function.
+This module for the [MagicMirror](https://github.com/MichMich/MagicMirror) autoplays a video using the html video function.
 
 ## Installation
 
